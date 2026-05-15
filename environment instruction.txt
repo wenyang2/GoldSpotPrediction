@@ -1,0 +1,5 @@
+Recreate my environment using:
+
+conda env create -f environment.yml 
+
+in bash
