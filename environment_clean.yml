@@ -1,0 +1,20 @@
+name: gold_transformer
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.10
+  - jupyter
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - seaborn
+  - numpy=1.26
+  - torchaudio
+  - torchvision
+  - cpuonly
+  - pytorch
+  - einops
+  - lightning
+prefix: D:\miniconda3\envs\gold_transformer
