@@ -17,4 +17,7 @@ dependencies:
   - pytorch
   - einops
   - lightning
-prefix: D:\miniconda3\envs\gold_transformer
+  - pip
+  - pip:
+      - pytorch-forecasting==1.7.0
+      - reformer-pytorch
